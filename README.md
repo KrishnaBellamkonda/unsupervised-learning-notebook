@@ -46,12 +46,12 @@
       <img src="./unsupervised_learning_images/RandomNumberOfClusters.png"><img/>
   <article/>     
          
-    <article>
+   <article>
        <h4>Silhouette Diagrams for KMeans<h4/>
       <img src="./unsupervised_learning_images/SilhouetteDiagrams.png"><img/>
   <article/>
          
-    <article>
+   <article>
        <h4>Inertia for Different Dimensions<h4/>
       <img src="./unsupervised_learning_images/InertiaForDifferentDimensions.png"><img/>
   <article/>
@@ -61,18 +61,18 @@
       <img src="./unsupervised_learning_images/SilhouetteScoreForDifferentNumberOfClusters.png"><img/>
   <article/>
          
-              <article>
+   <article>
        <h4>All Clustering<h4/>
       <img src="./unsupervised_learning_images/TimeTakenByDifferentKMeans.png"><img/>
   <article/>   
          
          
-      <article>
+  <article>
        <h4>Semantic Clustering<h4/>
       <img src="./unsupervised_learning_images/semantic_clustering.png"><img/>
   <article/>
          
-           <article>
+  <article>
        <h4>Elipctic Envelope<h4/>
       <img src="./unsupervised_learning_images/EllipticEnvelope.png"><img/>
   <article/>
