@@ -1,7 +1,7 @@
 # unsupervised-learning-notebook
 
 ### Description
-*This notebook contains the implementation of many unsupervised algorithms - especially clustering algorithms. This notebook was heaviliy inspired and guided by * 
+*This notebook contains the implementation of many unsupervised algorithms - especially clustering algorithms. This notebook was heaviliy inspired and guided by GeÌron, Aureìlien's Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow.* 
 
 
 ### Algorithms Used
