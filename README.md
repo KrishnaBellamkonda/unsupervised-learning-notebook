@@ -33,7 +33,7 @@
 <section style="display:flex; flex-direction:column;'">
   <article>
        <h4>All Clustering<h4/>
-      <img src="./unsupervised_learning_images/"><img/>
+      <img src="./unsupervised_learning_images/AllClustering.png"><img/>
   <article/>
 <section/>
 
