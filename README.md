@@ -56,7 +56,7 @@
       <img src="./unsupervised_learning_images/InertiaForDifferentDimensions.png"><img/>
   <article/>
          
-     <article>
+   <article>
        <h4>Silhouete Score different number of clusters<h4/>
       <img src="./unsupervised_learning_images/SilhouetteScoreForDifferentNumberOfClusters.png"><img/>
   <article/>
