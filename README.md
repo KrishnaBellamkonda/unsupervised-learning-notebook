@@ -35,6 +35,52 @@
        <h4>All Clustering<h4/>
       <img src="./unsupervised_learning_images/AllClustering.png"><img/>
   <article/>
+   
+   <article>
+       <h4>KMeans<h4/>
+      <img src="./unsupervised_learning_images/clustering.png"><img/>
+  <article/>
+         
+  <article>
+       <h4>KMeans with random number of clusters<h4/>
+      <img src="./unsupervised_learning_images/RandomNumberOfClusters.png"><img/>
+  <article/>     
+         
+    <article>
+       <h4>Silhouette Diagrams for KMeans<h4/>
+      <img src="./unsupervised_learning_images/SilhouetteDiagrams.png"><img/>
+  <article/>
+         
+    <article>
+       <h4>Inertia for Different Dimensions<h4/>
+      <img src="./unsupervised_learning_images/InertiaForDifferentDimensions.png"><img/>
+  <article/>
+         
+     <article>
+       <h4>Silhouete Score different number of clusters<h4/>
+      <img src="./unsupervised_learning_images/SilhouetteScoreForDifferentNumberOfClusters.png"><img/>
+  <article/>
+         
+              <article>
+       <h4>All Clustering<h4/>
+      <img src="./unsupervised_learning_images/TimeTakenByDifferentKMeans.png"><img/>
+  <article/>   
+         
+         
+      <article>
+       <h4>Semantic Clustering<h4/>
+      <img src="./unsupervised_learning_images/semantic_clustering.png"><img/>
+  <article/>
+         
+           <article>
+       <h4>Elipctic Envelope<h4/>
+      <img src="./unsupervised_learning_images/EllipticEnvelope.png"><img/>
+  <article/>
+       
+
+         
+      
+   
 <section/>
 
 
