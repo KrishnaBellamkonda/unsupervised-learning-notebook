@@ -3,7 +3,6 @@
 ### Description
 *This notebook contains the implementation of many unsupervised algorithms - especially clustering algorithms. This notebook was heaviliy inspired and guided by * 
 
-### Table of Contents
 
 ### Algorithms Used
 * Clustering 
